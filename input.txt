@@ -1,4 +1,5 @@
 S->#E#
 E->E+T|T
 T->T*F|F
-F->(E)|i
+F->P^F|P
+P->(E)|i
